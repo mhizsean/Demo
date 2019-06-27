@@ -1,0 +1,35 @@
+.carousel img {
+    width:100%;
+    height: 30% important;
+
+}
+
+.island img {
+    width: 100%;
+    height: 20%;
+}
+
+.island h3 {
+    font-size: 20px;
+    color: white;
+    display: flex;
+}
+
+.falls img {
+    width: 100%;
+    height: 20%;
+}
+
+.falls h3 {
+    font-size: 20px;
+    color: white;
+}
+.trees img {
+    width: 100%;
+    height: 20%;
+}
+
+.trees h3 {
+    font-size: 20px;
+    color: white;
+}
